@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title>Brazil Landmarks</title>
+    </head>
+
+    <body>
+      <div id="container">
+           <div id="image_container">
+             <img src="Your paragraph text (3).gif" usemap="#image-map">
+
+             <map name="image-map">
+                <area target="" alt="Christ The Redeemer" title="Christ The Redeemer" href="https://sites.google.com/apecschools.edu.ph/onl-12-stem-3-un-museum-brazil/take-a-tour/landmarks/landmarks-gallery/christ-the-redeemer" coords="543,424,537,427,536,433,542,450,549,435,549,427" shape="poly">
+                <area target="" alt="Copacabana Beach" title="Copacabana Beach" href="https://sites.google.com/apecschools.edu.ph/onl-12-stem-3-un-museum-brazil/take-a-tour/landmarks/landmarks-gallery/copacabana-beach" coords="917,581,910,586,913,596,917,603,921,595,924,586" shape="poly">
+                <area target="" alt="Sugarloaf Mountain" title="Sugarloaf Mountain" href="https://sites.google.com/apecschools.edu.ph/onl-12-stem-3-un-museum-brazil/take-a-tour/landmarks/landmarks-gallery/sugarloaf-mountain" coords="1026,486,1019,490,1022,499,1026,508,1031,502,1034,494,1032,487,1030,484,1032,487" shape="poly">
+                <area target="" alt="Escadaria Selarón" title="Escadaria Selarón" href="https://sites.google.com/apecschools.edu.ph/onl-12-stem-3-un-museum-brazil/take-a-tour/landmarks/landmarks-gallery/escadaria-selar%C3%B3n" coords="938,355,931,359,935,369,938,376,942,368,945,359" shape="poly">
+                <area target="" alt="Metropolitan Cathedral" title="Metropolitan Cathedral" href="https://sites.google.com/apecschools.edu.ph/onl-12-stem-3-un-museum-brazil/take-a-tour/landmarks/landmarks-gallery/metropolitan-cathedral-of-rio-de-janeiro" coords="932,336,926,342,928,351,933,356,938,351,939,342" shape="poly">
+                <area target="" alt="Museu do Amanhã" title="Museu do Amanhã" href="https://sites.google.com/apecschools.edu.ph/onl-12-stem-3-un-museum-brazil/take-a-tour/landmarks/landmarks-gallery/museu-do-amanh%C3%A3-museum-of-tomorrow" coords="936,277,929,283,932,289,936,298,941,291,943,282" shape="poly">
+                <area target="" alt="Ibirapuera Park" title="Ibirapuera Park" href="https://sites.google.com/apecschools.edu.ph/onl-12-stem-3-un-museum-brazil/take-a-tour/landmarks/landmarks-gallery/ibirapuera-park-s%C3%A3o-paulo" coords="488,431,482,437,484,447,489,453,494,445,496,437" shape="poly">
+                <area target="" alt="Iguazu Falls" title="Iguazu Falls" href="https://sites.google.com/apecschools.edu.ph/onl-12-stem-3-un-museum-brazil/take-a-tour/landmarks/landmarks-gallery/iguazu-falls" coords="372,467,366,471,367,479,372,487,379,478,379,471" shape="poly">
+                <area target="" alt="Christ The Redeemer" title="Christ The Redeemer" href="https://sites.google.com/apecschools.edu.ph/onl-12-stem-3-un-museum-brazil/take-a-tour/landmarks/landmarks-gallery/christ-the-redeemer" coords="826,497,820,504,822,512,827,521,831,511,833,503" shape="poly">
+                <area target="" alt="Fernando de Noronha" title="Fernando de Noronha" href="https://sites.google.com/apecschools.edu.ph/onl-12-stem-3-un-museum-brazil/take-a-tour/landmarks/landmarks-gallery/fernando-de-noronha" coords="704,123,698,127,697,133,704,146,711,133,710,126" shape="poly">
+                <area target="" alt="Amazon Theatre" title="Amazon Theatre" href="https://sites.google.com/apecschools.edu.ph/onl-12-stem-3-un-museum-brazil/take-a-tour/landmarks/landmarks-gallery/amazon-theatre" coords="286,109,279,115,280,121,286,131,293,121,293,113" shape="poly">
+             </map>
+           </div>
+      </div>
+    
+    </body>
+</html>
